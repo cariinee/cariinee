@@ -12,4 +12,4 @@
 
 👩‍🎓 Análise e Desenvolvimento de Sistemas - FACENS (2021 - 2023)
 
-👩‍🎓 Especialização em Arquitetura de Sofware - FACENS (2023 - 2025)
+👩‍🎓 Especialização em Arquitetura de Software - FACENS (2023 - 2025)
